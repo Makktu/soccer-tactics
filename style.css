@@ -21,7 +21,8 @@ body {
     width: 350px;
     height: 600px;
     border: 1px black solid;
-    background-color: green;
+    background-image: url("/img/the-pitch.jpg");
+    background-size: cover;
 }
 
 .top-half {
